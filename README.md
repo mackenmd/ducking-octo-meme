@@ -19,3 +19,6 @@ This is some additional text that Markmackenzie speaking into Dragon NaturallySp
 I'm now making some additional changes to the readme file. These changes follow a commit.
 
 Making a third round of changes to the readme file.
+
+
+Here is another change that I plan on committing and then immediately rolling back.
